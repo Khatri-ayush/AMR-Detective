@@ -113,4 +113,4 @@ AMR-Detective/
 ## Author
 
 Ayush Khatri
-MSc Bioinformatics, MDU Rohtak
+MSc Bioinformatics, Centre for Bioinformatics, Maharshi Dayanand University, Rohtak
