@@ -1,0 +1,10 @@
+biopython==1.86
+seaborn==0.13.2
+scikit-learn==1.7.2
+numpy==2.2.6
+matplotlib==3.10.8
+streamlit==1.55.0
+pandas==2.3.3
+requests @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_requests_1766926974/work
+
+
